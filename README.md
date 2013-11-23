@@ -1,4 +1,4 @@
-sample
+algorithm
 ======
 
-Java sample program for studying algorithm.
+Java algorithm program.
